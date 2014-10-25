@@ -658,7 +658,8 @@
         ],
         "items": {
             "both": [
-                "suit",
+                "suit_jacket_cheap",
+                "suit_pants_cheap",
                 "bowhat",
                 "glock_19",
                 "9mm",
@@ -932,11 +933,12 @@
         "points": 4,
         "items": {
             "both": [
-                "pants",
+                "suit_pants_fancy",
                 "dress_shirt",
 		"skinny_tie",
 		"waistcoat",
 		"holster",
+		"suit_jacket_fancy",
 		"trenchcoat",
 		"badge_detective",
 		"gloves_leather",
@@ -989,7 +991,8 @@
         ],
         "items": {
             "both": [
-                "suit",
+                "suit_jacket_cheap",
+                "suit_pants_cheap",
                 "knit_scarf",
                 "socks",
                 "dress_shoes"
@@ -1661,7 +1664,8 @@
         "items":{
             "both": [
                 "socks",
-                "suit",
+                "suit_jacket_cheap",
+                "suit_pants_cheap",
                 "dress_shoes",
                 "gold_watch",
                 "knit_scarf",
@@ -1813,7 +1817,8 @@
                 "dress_shoes",
                 "socks",
                 "knit_scarf",
-                "suit"
+                "suit_jacket_fancy",
+                "suit_pants_fancy"
             ],
             "male": [
                 "briefs"
@@ -1861,7 +1866,7 @@
             "male": [
                 "briefs",
                 "socks",
-                "pants"
+                "suit_pants_fancy"
             ],
             "female": [
                 "bra",
@@ -2580,7 +2585,8 @@
         ],
         "items": {
             "both": [
-                "suit",
+                "suit_jacket_fancy",
+                "suit_pants_fancy",
                 "skinny_tie",
                 "tieclip",
                 "socks",

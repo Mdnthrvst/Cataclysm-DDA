@@ -4895,6 +4895,48 @@
             "multitile":false
         },
         {
+            "id": "suit_jacket_cheap",
+            "fg":-1,
+            "bg":-1,
+            "rotates":false,
+            "multitile":false
+        },
+        {
+            "id": "suit_pants_cheap",
+            "fg":-1,
+            "bg":-1,
+            "rotates":false,
+            "multitile":false
+        },
+        {
+            "id": "suit_jacket_fancy",
+            "fg":-1,
+            "bg":-1,
+            "rotates":false,
+            "multitile":false
+        },
+        {
+            "id": "suit_pants_fancy",
+            "fg":-1,
+            "bg":-1,
+            "rotates":false,
+            "multitile":false
+        },
+        {
+            "id": "tux_jacket",
+            "fg":-1,
+            "bg":-1,
+            "rotates":false,
+            "multitile":false
+        },
+        {
+            "id": "tux_pants",
+            "fg":-1,
+            "bg":-1,
+            "rotates":false,
+            "multitile":false
+        },
+        {
             "id": "hazmat_suit",
             "fg":-1,
             "bg":-1,
