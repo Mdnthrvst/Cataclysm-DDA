@@ -575,7 +575,9 @@
                 "knife_butter"
             ],
             "male": [
-                "tux",
+                "tux_pants",
+                "dress_shirt",
+                "tux_jacket",
                 "dress_shoes",
                 "briefs",
                 "socks"
@@ -658,6 +660,7 @@
         ],
         "items": {
             "both": [
+                "dress_shirt",
                 "suit_jacket_cheap",
                 "suit_pants_cheap",
                 "bowhat",
@@ -777,7 +780,7 @@
         "points": -1,
         "items": {
             "both": [
-                "pants",
+                "suit_pants_cheap",
                 "dress_shirt",
                 "socks",
                 "dress_shoes",
@@ -991,6 +994,7 @@
         ],
         "items": {
             "both": [
+                "dress_shirt",
                 "suit_jacket_cheap",
                 "suit_pants_cheap",
                 "knit_scarf",
@@ -1308,7 +1312,9 @@
             ],
             "male": [
                 "briefs",
-                "tux"
+                "dress_shirt",
+                "tux_jacket",
+                "tux_pants"
             ],
             "female": [
                 "bra",
@@ -1664,6 +1670,7 @@
         "items":{
             "both": [
                 "socks",
+                "dress_shirt",
                 "suit_jacket_cheap",
                 "suit_pants_cheap",
                 "dress_shoes",
@@ -1817,6 +1824,7 @@
                 "dress_shoes",
                 "socks",
                 "knit_scarf",
+                "dress_shirt",
                 "suit_jacket_fancy",
                 "suit_pants_fancy"
             ],
@@ -2237,7 +2245,9 @@
         "points": -1,
         "items" : {
             "male": [
-                "tux",
+                "dress_shirt",
+                "tux_jacket",
+                "tux_pants",
                 "socks",
                 "dress_shoes",
                 "briefs"
@@ -2585,6 +2595,7 @@
         ],
         "items": {
             "both": [
+                "dress_shirt",
                 "suit_jacket_fancy",
                 "suit_pants_fancy",
                 "skinny_tie",
